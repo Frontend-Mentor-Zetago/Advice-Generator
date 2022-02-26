@@ -25,4 +25,8 @@ $(".btn__generate").click(function () {
 
     })
 
+    $(".btn__generate").addClass("disabled");
+    setTimeout(function () {
+        $(".btn__generate").removeClass("disabled")
+    }, 2000)
 });

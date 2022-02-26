@@ -170,6 +170,12 @@ body{
     margin: 0 10px;
 }
 
+.disabled{
+    opacity: 0.5;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
 @media screen and (max-width: 640px) {
     .box__api-generator{
         min-width: 350px;
