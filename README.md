@@ -16,7 +16,7 @@ Random advice when click button !
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://gt-dev.net/challenge/advice-generator/)
+- Solution URL: [My Advice generator Solution](https://www.gt-dev.net/challenge/advice-generator/)
 
 ### Built with
 
